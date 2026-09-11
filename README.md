@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atacan 👋</h1>
-<h3 align="center">Full-Stack & Mobile Developer · Sakarya, Türkiye</h3>
+<h3 align="center">Full-Stack & Mobile Developer · İstanbul, Türkiye</h3>
 
 <p align="center">
 I build production-grade web &amp; mobile products end to end — from multi-tenant SaaS backends to React&nbsp;Native apps shipped on the store.
