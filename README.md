@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atacan 👋</h1>
-<h3 align="center">Full-Stack & Mobile Developer · İstanbul, Türkiye</h3>
+<h3 align="center">Full-Stack & Mobile Developer · Sakarya, Türkiye</h3>
 
 <p align="center">
 I build production-grade web &amp; mobile products end to end — from multi-tenant SaaS backends to React&nbsp;Native apps shipped on the store.
@@ -51,7 +51,7 @@ I build production-grade web &amp; mobile products end to end — from multi-ten
 
 ### 📌 Featured Projects / Öne Çıkan Projeler
 
-**🧾 CariNet — B2B Current-Account SaaS Platform** &nbsp;`private`
+**🧾 [CariNet](https://github.com/4Atacan/CariNet) — B2B Current-Account SaaS Platform** &nbsp;`open source`
 A multi-tenant B2B platform for managing current accounts (*cari hesap*) between businesses.
 - **Stack:** TypeScript monorepo (pnpm + Turborepo) · Node.js API · admin panel · Expo mobile app
 - **Infra:** Docker · GitHub Actions CI · Sentry observability · encrypted backup/restore & deploy runbook
@@ -59,7 +59,7 @@ A multi-tenant B2B platform for managing current accounts (*cari hesap*) between
 
 <sub>🇹🇷 İşletmeler arası cari hesap yönetimi için çok kiracılı B2B platformu. TypeScript monorepo, Node.js API, yönetim paneli ve Expo mobil uygulama; Docker, CI, Sentry ve şifreli yedekleme ile production'a hazır.</sub>
 
-**🚗 Otonbu — Vehicle & Garage Management App** &nbsp;`private` &nbsp;`Google Play`
+**🚗 [Otonbu](https://github.com/4Atacan/Otonbu) — Vehicle & Garage Management App** &nbsp;`open source` &nbsp;`Google Play`
 A mobile app for tracking vehicles, appointments, subscriptions and payments.
 - **Stack:** React Native (Expo) · Supabase · Cloudflare Workers + R2 storage
 - **Features:** FCM push notifications · subscription & segment-based pricing · Sentry monitoring
@@ -72,8 +72,8 @@ A smart stock / inventory management project currently in early development.
 
 <sub>🇹🇷 Geliştirme aşamasında olan akıllı stok / envanter yönetimi projesi.</sub>
 
-> 💡 Most of my main repositories are private. I'm happy to walk through the code and architecture on request.
-> <br/>🇹🇷 Ana projelerimin çoğu gizli. Talep üzerine kod ve mimariyi memnuniyetle anlatırım.
+> 💡 The projects above are open source — feel free to explore the code and architecture. I'm happy to walk through any of them on request.
+> <br/>🇹🇷 Yukarıdaki projeler açık kaynak — kodu ve mimariyi inceleyebilirsiniz. Talep üzerine hepsini memnuniyetle anlatırım.
 
 ---
 
